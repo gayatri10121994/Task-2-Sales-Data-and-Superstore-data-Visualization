@@ -1,4 +1,4 @@
-# Task-2-Sales-Data-and-Superstore-data-Visualization
+# Task-2-Sales-Data
 1. 📌 Project Title & Description
 ### Mobile Sales Data
 This project explores smartphone sales trends across regions, brands, and time periods using interactive dashboards and data visualization tools. It aims to uncover insights into consumer behavior, market share dynamics, and seasonal performance.
