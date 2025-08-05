@@ -21,3 +21,20 @@ This project explores smartphone sales trends across regions, brands, and time p
 - How to Use Power BI for Analyzing Smartphone Sales Data – covers data loading, relationships, and visualizations
 
 
+# Task-2-Superstore.csv 
+- Project Overview: An interactive dashboard built using Power BI to analyze sales data from a fictional Superstore.
+- Dataset Details: Includes order id, order date, Ship Date, Ship Mode,Customer id, Custemor Name,Segment,Country,City,State,Region,product id,Sub Category, Product Name,category, quantity, sales, profit, shipping info, and customer demographics.
+- Key Features:
+- Visual breakdowns by category, region, and customer segment
+- Monthly/yearly sales trends
+- KPIs like total orders, profit, and average order value
+- Top/least-performing products and regions
+- Tools Used:
+- Power BI Desktop
+- DAX for calculated fields
+- Power Query for data cleaning
+
+
+
+
+
