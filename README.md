@@ -22,7 +22,7 @@ This project explores smartphone sales trends across regions, brands, and time p
 
 
 # Task-2-Superstore.csv 
-- Project Overview: An interactive dashboard built using Power BI to analyze sales data from a fictional Superstore.
+- Project Objective: To Contribute to the success of business by utilizing data Analyst technique,specifically focusing on time series analysis, to provide valuable insights and accurate sales forcasting.
 - Dataset Details: Includes order id, order date, Ship Date, Ship Mode,Customer id, Custemor Name,Segment,Country,City,State,Region,product id,Sub Category, Product Name,category, quantity, sales, profit, shipping info, and customer demographics.
 - Key Features:
 - Visual breakdowns by category, region, and customer segment
